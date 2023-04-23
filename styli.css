@@ -1,0 +1,68 @@
+.corpo{
+    text-align: center;
+    background-color: #ff9cfa;
+
+}
+
+.cabecalho{
+
+   
+    
+    background-color: #ff6ec7;
+    color: rgb(247, 0, 255);
+
+ display: flex; 
+ justify-content: space-around;
+
+
+}
+.Logotipogamer{
+
+width: 0%;;
+}
+.cabecalho-item{
+
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 20px;
+    
+}   
+
+.thelast{
+
+    width: 25%;
+    border-radius: 20%;
+}
+
+.god4{
+
+   
+   
+    width: 25%;     
+    border-radius: 20%;
+    
+}
+
+.R8{
+    width: 25%;
+   border-radius: 20%;
+}
+
+.red{
+
+    width: 25%;
+    border-radius: 20%;
+}
+
+.vava{
+
+    width: 25%;
+    border-radius: 20%;
+}
+
+
+
+.div-game2{
+
+     
+}
